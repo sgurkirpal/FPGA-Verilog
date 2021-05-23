@@ -17,7 +17,8 @@ input.
 ## Configuration Files
 Some of the configuration files are:
 
-![image](https://user-images.githubusercontent.com/58677568/119256398-2f8f8200-bbde-11eb-9bd2-ef270d8e36f4.png)
+![image](https://user-images.githubusercontent.com/58677568/119256430-5d74c680-bbde-11eb-8156-6f9e85104bc0.png)
+![image](https://user-images.githubusercontent.com/58677568/119256439-65cd0180-bbde-11eb-91ce-d4bae5a7b632.png)
 
 ## Results
 Using different instances of memory file and different input configurations, the
